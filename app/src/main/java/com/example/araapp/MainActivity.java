@@ -24,6 +24,6 @@ public class MainActivity extends AppCompatActivity {
         webView.setWebViewClient(new WebViewClient());
 
         // ⚠️ GANTI URL DI BAWAH INI DENGAN LINK GITHUB PAGES HTML-MU!
-        webView.loadUrl("https://namauser.github.io/english-app/");
+        webView.loadUrl("https://bandahele.github.io/english-quiz-apk/");
     }
 }
